@@ -1,4 +1,5 @@
-# python-opencv-arduino> 依靠python和opencv以及arduino实现，其中包括arduino与python的串口通信。
+
+> 依靠python和opencv以及arduino实现，其中包括arduino与python的串口通信。
 
 ----------
 电路图如下：
@@ -7,7 +8,7 @@
 
 可实现的功能：
 
-> <iframe height=498 width=510 src='http://player.youku.com/embed/XMzU3NzAwNzMyNA==' frameborder=0 'allowfullscreen'></iframe>
+> [优酷视频链接](http://v.youku.com/v_show/id_XMzU3NzAwNzMyNA==.html?spm=a2hzp.8244740.0.0)
 
 
 
